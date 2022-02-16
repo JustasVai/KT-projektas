@@ -1,3 +1,3 @@
 # KT-projektas
 Piešinių konkurso internetinė svetainė su duomenų baze.
-Realizuota PHP,HTML ir MySql kalbomis.
+Realizuota PHP,HTML ir MySql kalbomis. Daugiau informacijos ataskaitoje.
